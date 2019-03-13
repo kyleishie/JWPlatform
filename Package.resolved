@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JWT",
+        "repositoryURL": "https://github.com/jonblatho/JSONWebToken.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "44f4b7a4ed7c1d2a165e106f2eb236ad199a54be",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "RESTClient",
+        "repositoryURL": "https://github.com/kyleishie/RESTClient.git",
+        "state": {
+          "branch": "master",
+          "revision": "d24558801e7b4ab7114d0323837d1f9b52a9fc35",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
